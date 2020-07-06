@@ -1,0 +1,40 @@
+body {
+	width: 100%;
+	max-width: 1024px;
+	margin: 0 auto;
+    background-image: linear-gradient(black, #242424);
+    text-align: center;
+    color: white;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 4%;
+    font-family: 'Amatic SC', sans-serif;
+    font-size: 20px;
+    
+}
+li {
+    list-style-type: none;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  .fa:hover {
+    opacity: 0.7;
+  }
+  #pink {
+      width: 90%;
+      /* height: 300px; */
+  }
+  img {
+    border-radius: 8px;
+    align-items: inherit;
+  }
+  #socials {
+    background: #D2B48C;
+    color: white;
+    /* padding-right: 10%; */
+  }
